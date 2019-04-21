@@ -1,4 +1,4 @@
 GADONG RESOLUSI
-- Konsisten untuk belajar  web proggramming (HTML, CSS,PHP, MYSQL)
--  Kosistem untuk belajar sistem operasi linux
+- Konsisten untuk belajar web proggramming (HTML, CSS,PHP, MYSQL)
+- Konsisten untuk belajar sistem operasi Linux
 - Membuat channel youtube dan upload video-video edukasi dan inspiratif
